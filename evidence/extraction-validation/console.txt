@@ -1,0 +1,29 @@
+Verified 33 frozen input checksums.
+01-venv: exit 0
+02-install-lock: exit 0
+03-build-wheel: exit 0
+04-install-wheel: exit 0
+05-upstream-tests: exit 0
+06-start-version: exit 0
+07-study-probes: exit 0
+08-dependency-check: exit 0
+{
+  "upstream_commit": "78e35788606a0add0c4f99ceb702c3ea0d0b1346",
+  "upstream_source_sha256": "00e147fee9b31de498a08778aeec9d83e66ca99712b426a7de8132f1b8c56089",
+  "python": "3.12.14",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "runtime_differs_from_recorded_python": false,
+  "upstream_tests": {
+    "passed": 188,
+    "skipped": 6,
+    "xfailed": 3,
+    "failed": 0,
+    "errors": 0,
+    "total": 197
+  },
+  "study_checks_passed": 6,
+  "built_wheel_sha256": "d1f8a709102190677aa9251a6132e1adeb986bb547cb5c9051fb0117b636433d",
+  "offline_install": true,
+  "seed": 20261025,
+  "note": "Skips and expected failures are retained; characterization checks include missing safeguards."
+}

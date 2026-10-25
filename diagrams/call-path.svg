@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="374.4pt" viewBox="0 0 648 374.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T13:14:17.836637</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 374.4 
+L 648 374.4 
+L 648 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 60.264 74.5056 
+L 587.736 74.5056 
+Q 595.512 74.5056 595.512 70.0128 
+L 595.512 32.9472 
+Q 595.512 28.4544 587.736 28.4544 
+L 60.264 28.4544 
+Q 52.488 28.4544 52.488 32.9472 
+L 52.488 70.0128 
+Q 52.488 74.5056 60.264 74.5056 
+z
+" clip-path="url(#pb58f6b32ba)" style="fill: #e8eff7; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 60.264 128.7936 
+L 587.736 128.7936 
+Q 595.512 128.7936 595.512 124.3008 
+L 595.512 87.2352 
+Q 595.512 82.7424 587.736 82.7424 
+L 60.264 82.7424 
+Q 52.488 82.7424 52.488 87.2352 
+L 52.488 124.3008 
+Q 52.488 128.7936 60.264 128.7936 
+z
+" clip-path="url(#pb58f6b32ba)" style="fill: #e8eff7; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 60.264 183.0816 
+L 587.736 183.0816 
+Q 595.512 183.0816 595.512 178.5888 
+L 595.512 141.5232 
+Q 595.512 137.0304 587.736 137.0304 
+L 60.264 137.0304 
+Q 52.488 137.0304 52.488 141.5232 
+L 52.488 178.5888 
+Q 52.488 183.0816 60.264 183.0816 
+z
+" clip-path="url(#pb58f6b32ba)" style="fill: #e7f2ed; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 60.264 237.3696 
+L 587.736 237.3696 
+Q 595.512 237.3696 595.512 232.8768 
+L 595.512 195.8112 
+Q 595.512 191.3184 587.736 191.3184 
+L 60.264 191.3184 
+Q 52.488 191.3184 52.488 195.8112 
+L 52.488 232.8768 
+Q 52.488 237.3696 60.264 237.3696 
+z
+" clip-path="url(#pb58f6b32ba)" style="fill: #e7f2ed; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 60.264 291.6576 
+L 587.736 291.6576 
+Q 595.512 291.6576 595.512 287.1648 
+L 595.512 250.0992 
+Q 595.512 245.6064 587.736 245.6064 
+L 60.264 245.6064 
+Q 52.488 245.6064 52.488 250.0992 
+L 52.488 287.1648 
+Q 52.488 291.6576 60.264 291.6576 
+z
+" clip-path="url(#pb58f6b32ba)" style="fill: #e8eff7; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 60.264 345.9456 
+L 587.736 345.9456 
+Q 595.512 345.9456 595.512 341.4528 
+L 595.512 304.3872 
+Q 595.512 299.8944 587.736 299.8944 
+L 60.264 299.8944 
+Q 52.488 299.8944 52.488 304.3872 
+L 52.488 341.4528 
+Q 52.488 345.9456 60.264 345.9456 
+z
+" clip-path="url(#pb58f6b32ba)" style="fill: #f0edf6; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 324 73.135969 
+Q 324 78.624488 324 82.659563 
+" clip-path="url(#pb58f6b32ba)" style="fill: none; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 326.8 77.059563 
+L 324 82.659563 
+L 321.2 77.059563 
+z
+" clip-path="url(#pb58f6b32ba)" style="fill: #567084; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 324 127.423969 
+Q 324 132.912488 324 136.947563 
+" clip-path="url(#pb58f6b32ba)" style="fill: none; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 326.8 131.347563 
+L 324 136.947563 
+L 321.2 131.347563 
+z
+" clip-path="url(#pb58f6b32ba)" style="fill: #567084; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 324 181.711969 
+Q 324 187.200488 324 191.235563 
+" clip-path="url(#pb58f6b32ba)" style="fill: none; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 326.8 185.635563 
+L 324 191.235563 
+L 321.2 185.635563 
+z
+" clip-path="url(#pb58f6b32ba)" style="fill: #567084; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 324 235.999969 
+Q 324 241.488488 324 245.523563 
+" clip-path="url(#pb58f6b32ba)" style="fill: none; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 326.8 239.923563 
+L 324 245.523563 
+L 321.2 239.923563 
+z
+" clip-path="url(#pb58f6b32ba)" style="fill: #567084; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 324 290.287969 
+Q 324 295.776488 324 299.811563 
+" clip-path="url(#pb58f6b32ba)" style="fill: none; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 326.8 294.211563 
+L 324 299.811563 
+L 321.2 294.211563 
+z
+" clip-path="url(#pb58f6b32ba)" style="fill: #567084; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #152d40" x="12.96" y="18.885656" transform="rotate(-0 12.96 18.885656)">Observed deadline edit path</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b3a" x="324" y="54.929219" transform="rotate(-0 324 54.929219)">1  CLI startup and trusted configuration</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b3a" x="324" y="109.217219" transform="rotate(-0 324 109.217219)">2  Parse due value and load the existing Todo</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b3a" x="324" y="163.505219" transform="rotate(-0 324 163.505219)">3  Database.save increments SEQUENCE</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b3a" x="324" y="217.793219" transform="rotate(-0 324 217.793219)">4  VtodoWriter serializes the calendar record</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b3a" x="324" y="272.081219" transform="rotate(-0 324 272.081219)">5  Atomic replacement writes the .ics file</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172b3a" x="324" y="326.369219" transform="rotate(-0 324 326.369219)">6  Refresh SQLite cache and display the result</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb58f6b32ba">
+   <rect x="0" y="0" width="648" height="374.4"/>
+  </clipPath>
+ </defs>
+</svg>

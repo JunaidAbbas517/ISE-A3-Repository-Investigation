@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="331.2pt" viewBox="0 0 648 331.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T13:14:17.746505</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 331.2 
+L 648 331.2 
+L 648 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 34.344 82.4688 
+L 613.656 82.4688 
+Q 621.432 82.4688 621.432 78.4944 
+L 621.432 37.4256 
+Q 621.432 33.4512 613.656 33.4512 
+L 34.344 33.4512 
+Q 26.568 33.4512 26.568 37.4256 
+L 26.568 78.4944 
+Q 26.568 82.4688 34.344 82.4688 
+z
+" clip-path="url(#pe3e10bfc00)" style="fill: #e8eff7; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 34.344 181.8288 
+L 224.856 181.8288 
+Q 232.632 181.8288 232.632 177.8544 
+L 232.632 126.8496 
+Q 232.632 122.8752 224.856 122.8752 
+L 34.344 122.8752 
+Q 26.568 122.8752 26.568 126.8496 
+L 26.568 177.8544 
+Q 26.568 181.8288 34.344 181.8288 
+z
+" clip-path="url(#pe3e10bfc00)" style="fill: #fff4df; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 287.064 181.8288 
+L 613.656 181.8288 
+Q 621.432 181.8288 621.432 177.8544 
+L 621.432 126.8496 
+Q 621.432 122.8752 613.656 122.8752 
+L 287.064 122.8752 
+Q 279.288 122.8752 279.288 126.8496 
+L 279.288 177.8544 
+Q 279.288 181.8288 287.064 181.8288 
+z
+" clip-path="url(#pe3e10bfc00)" style="fill: #e7f2ed; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 287.064 294.4368 
+L 432.216 294.4368 
+Q 439.992 294.4368 439.992 290.4624 
+L 439.992 236.1456 
+Q 439.992 232.1712 432.216 232.1712 
+L 287.064 232.1712 
+Q 279.288 232.1712 279.288 236.1456 
+L 279.288 290.4624 
+Q 279.288 294.4368 287.064 294.4368 
+z
+" clip-path="url(#pe3e10bfc00)" style="fill: #e8eff7; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 468.504 294.4368 
+L 613.656 294.4368 
+Q 621.432 294.4368 621.432 290.4624 
+L 621.432 236.1456 
+Q 621.432 232.1712 613.656 232.1712 
+L 468.504 232.1712 
+Q 460.728 232.1712 460.728 236.1456 
+L 460.728 290.4624 
+Q 460.728 294.4368 468.504 294.4368 
+z
+" clip-path="url(#pe3e10bfc00)" style="fill: #f0edf6; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 322.057068 79.951425 
+Q 226.802037 102.671514 132.960791 125.054389 
+" clip-path="url(#pe3e10bfc00)" style="fill: none; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 139.057615 126.47873 
+L 132.960791 125.054389 
+L 137.758358 121.031535 
+z
+" clip-path="url(#pe3e10bfc00)" style="fill: #567084; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 325.87797 80.177124 
+Q 387.17876 102.671545 447.115071 124.665268 
+" clip-path="url(#pe3e10bfc00)" style="fill: none; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 442.822421 120.10751 
+L 447.115071 124.665268 
+L 440.893275 125.364733 
+z
+" clip-path="url(#pe3e10bfc00)" style="fill: #567084; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 448.662876 179.901294 
+Q 405.000426 206.999735 362.572911 233.331733 
+" clip-path="url(#pe3e10bfc00)" style="fill: none; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 368.807535 232.75774 
+L 362.572911 233.331733 
+L 365.854491 227.999638 
+z
+" clip-path="url(#pe3e10bfc00)" style="fill: #567084; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 452.057124 179.901294 
+Q 495.719574 206.999735 538.147089 233.331733 
+" clip-path="url(#pe3e10bfc00)" style="fill: none; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 534.865509 227.999638 
+L 538.147089 233.331733 
+L 531.912465 232.75774 
+z
+" clip-path="url(#pe3e10bfc00)" style="fill: #567084; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #152d40" x="12.96" y="18.021656" transform="rotate(-0 12.96 18.021656)">Observed local architecture</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(245.615234 53.935684)">CLI entry and commands</text>
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(189.946289 68.882754)">Click arguments, configuration and display</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(68.992578 148.327684)">Trusted local config</text>
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(71.423242 163.274754)">Executable Python</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(369.866836 148.327684)">Task model and Database</text>
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(350.142227 163.274754)">Due values, UID and SEQUENCE</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(322.134141 259.279684)">VTODO files</text>
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(306.451523 274.226754)">Durable .ics data</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(500.181562 259.279684)">SQLite cache</text>
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(480.376875 274.226754)">Query data and IDs</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe3e10bfc00">
+   <rect x="0" y="0" width="648" height="331.2"/>
+  </clipPath>
+ </defs>
+</svg>

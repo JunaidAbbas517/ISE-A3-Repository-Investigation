@@ -1,0 +1,182 @@
+[
+  {
+    "name": "build",
+    "version": "1.6.1",
+    "wheel": "build-1.6.1-py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "click",
+    "version": "8.5.0",
+    "wheel": "click-8.5.0-py3-none-any.whl",
+    "licence": "BSD-3-Clause"
+  },
+  {
+    "name": "click-log",
+    "version": "0.4.0",
+    "wheel": "click_log-0.4.0-py2.py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "coverage",
+    "version": "7.17.0",
+    "wheel": "coverage-7.17.0-cp312-cp312-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl",
+    "licence": "Apache-2.0"
+  },
+  {
+    "name": "freezegun",
+    "version": "1.5.5",
+    "wheel": "freezegun-1.5.5-py3-none-any.whl",
+    "licence": "Apache-2.0"
+  },
+  {
+    "name": "humanize",
+    "version": "4.16.0",
+    "wheel": "humanize-4.16.0-py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "hypothesis",
+    "version": "6.170.9",
+    "wheel": "hypothesis-6.170.9-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "licence": "MPL-2.0"
+  },
+  {
+    "name": "icalendar",
+    "version": "7.3.0",
+    "wheel": "icalendar-7.3.0-py3-none-any.whl",
+    "licence": "BSD-2-Clause"
+  },
+  {
+    "name": "iniconfig",
+    "version": "2.3.1",
+    "wheel": "iniconfig-2.3.1-py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "wheel": "packaging-26.3-py3-none-any.whl",
+    "licence": "Apache-2.0 OR BSD-2-Clause"
+  },
+  {
+    "name": "parsedatetime",
+    "version": "2.6",
+    "wheel": "parsedatetime-2.6-py3-none-any.whl",
+    "licence": "Apache License 2.0"
+  },
+  {
+    "name": "pip",
+    "version": "25.0.1",
+    "wheel": "pip-25.0.1-py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "pluggy",
+    "version": "1.7.0",
+    "wheel": "pluggy-1.7.0-py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "Pygments",
+    "version": "2.21.0",
+    "wheel": "pygments-2.21.0-py3-none-any.whl",
+    "licence": "BSD-2-Clause"
+  },
+  {
+    "name": "pyproject_hooks",
+    "version": "1.3.3",
+    "wheel": "pyproject_hooks-1.3.3-py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "pytest",
+    "version": "9.1.1",
+    "wheel": "pytest-9.1.1-py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "pytest-cov",
+    "version": "7.1.0",
+    "wheel": "pytest_cov-7.1.0-py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "python-dateutil",
+    "version": "3.0.0",
+    "wheel": "python_dateutil-3.0.0-py2.py3-none-any.whl",
+    "licence": "Dual License"
+  },
+  {
+    "name": "pytz",
+    "version": "2026.5",
+    "wheel": "pytz-2026.5-py2.py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "pyxdg",
+    "version": "0.28",
+    "wheel": "pyxdg-0.28-py2.py3-none-any.whl",
+    "licence": "UNKNOWN"
+  },
+  {
+    "name": "setuptools",
+    "version": "84.2.1",
+    "wheel": "setuptools-84.2.1-py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "setuptools-scm",
+    "version": "10.3.4",
+    "wheel": "setuptools_scm-10.3.4-py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "six",
+    "version": "1.17.0",
+    "wheel": "six-1.17.0-py2.py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "sortedcontainers",
+    "version": "2.4.0",
+    "wheel": "sortedcontainers-2.4.0-py2.py3-none-any.whl",
+    "licence": "Apache 2.0"
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.16.0",
+    "wheel": "typing_extensions-4.16.0-py3-none-any.whl",
+    "licence": "PSF-2.0"
+  },
+  {
+    "name": "tzdata",
+    "version": "2026.5",
+    "wheel": "tzdata-2026.5-py2.py3-none-any.whl",
+    "licence": "Apache-2.0"
+  },
+  {
+    "name": "urwid",
+    "version": "4.2.5",
+    "wheel": "urwid-4.2.5-py3-none-any.whl",
+    "licence": "LGPL-2.1-only"
+  },
+  {
+    "name": "vcs-versioning",
+    "version": "2.6.0",
+    "wheel": "vcs_versioning-2.6.0-py3-none-any.whl",
+    "licence": "MIT"
+  },
+  {
+    "name": "wcwidth",
+    "version": "0.9.4",
+    "wheel": "wcwidth-0.9.4-cp310-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+    "licence": "See wheel metadata and licence files"
+  },
+  {
+    "name": "wheel",
+    "version": "0.48.0",
+    "wheel": "wheel-0.48.0-py3-none-any.whl",
+    "licence": "MIT"
+  }
+]

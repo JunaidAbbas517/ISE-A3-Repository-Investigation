@@ -1,0 +1,6 @@
+COMMAND ["/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/runs/traced/venv/bin/python", "-m", "pip", "check"]
+CWD /workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation
+No broken requirements found.
+
+EXIT_CODE 0
+ELAPSED_SECONDS 0.215

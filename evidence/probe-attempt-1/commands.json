@@ -1,0 +1,14 @@
+[
+  {
+    "label": "installed-entry-point",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-venv/bin/python",
+      "-m",
+      "todoman",
+      "--version"
+    ],
+    "exit_code": 0,
+    "stdout": "todoman, version 0.0+g78e35788606a\n",
+    "stderr": ""
+  }
+]

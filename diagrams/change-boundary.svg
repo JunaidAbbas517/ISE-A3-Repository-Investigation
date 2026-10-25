@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="230.4pt" viewBox="0 0 648 230.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T13:14:17.926357</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 230.4 
+L 648 230.4 
+L 648 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 27.864 117.2736 
+L 179.496 117.2736 
+Q 187.272 117.2736 187.272 114.5088 
+L 187.272 62.8992 
+Q 187.272 60.1344 179.496 60.1344 
+L 27.864 60.1344 
+Q 20.088 60.1344 20.088 62.8992 
+L 20.088 114.5088 
+Q 20.088 117.2736 27.864 117.2736 
+z
+" clip-path="url(#p28e2871ccd)" style="fill: #e8eff7; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 248.184 117.2736 
+L 406.296 117.2736 
+Q 414.072 117.2736 414.072 114.5088 
+L 414.072 62.8992 
+Q 414.072 60.1344 406.296 60.1344 
+L 248.184 60.1344 
+Q 240.408 60.1344 240.408 62.8992 
+L 240.408 114.5088 
+Q 240.408 117.2736 248.184 117.2736 
+z
+" clip-path="url(#p28e2871ccd)" style="fill: #e7f2ed; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 474.984 117.2736 
+L 620.136 117.2736 
+Q 627.912 117.2736 627.912 114.5088 
+L 627.912 62.8992 
+Q 627.912 60.1344 620.136 60.1344 
+L 474.984 60.1344 
+Q 467.208 60.1344 467.208 62.8992 
+L 467.208 114.5088 
+Q 467.208 117.2736 474.984 117.2736 
+z
+" clip-path="url(#p28e2871ccd)" style="fill: #e8eff7; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 248.184 211.7376 
+L 406.296 211.7376 
+Q 414.072 211.7376 414.072 208.9728 
+L 414.072 166.5792 
+Q 414.072 163.8144 406.296 163.8144 
+L 248.184 163.8144 
+Q 240.408 163.8144 240.408 166.5792 
+L 240.408 208.9728 
+Q 240.408 211.7376 248.184 211.7376 
+z
+" clip-path="url(#p28e2871ccd)" style="fill: #fff4df; stroke: #8d9daa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 183.437314 88.704 
+Q 213.840116 88.704 242.789473 88.704 
+" clip-path="url(#p28e2871ccd)" style="fill: none; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 237.189473 85.904 
+L 242.789473 88.704 
+L 237.189473 91.504 
+z
+" clip-path="url(#p28e2871ccd)" style="fill: #567084; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 410.237314 88.704 
+Q 440.640116 88.704 469.589473 88.704 
+" clip-path="url(#p28e2871ccd)" style="fill: none; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 463.989473 85.904 
+L 469.589473 88.704 
+L 463.989473 91.504 
+z
+" clip-path="url(#p28e2871ccd)" style="fill: #567084; stroke: #567084; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #152d40" x="12.96" y="16.005656" transform="rotate(-0 12.96 16.005656)">Proposed future boundary  Not implemented in A3</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(69.966133 84.679684)">Notice and</text>
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(56.618477 99.626754)">owner decision</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(281.976328 84.679684)">A2 verification</text>
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(259.795664 99.626754)">and protected history</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(493.18793 84.679684)">Controlled export</text>
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(483.145937 99.626754)">to personal calendar</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(261.738047 183.751684)">Official LMS deadline</text>
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; fill: #172b3a" transform="translate(274.389414 198.698754)">remains external</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p28e2871ccd">
+   <rect x="0" y="0" width="648" height="230.4"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,79 @@
+COMMAND ["/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/runs/traced/venv/bin/python", "-m", "build", "--wheel", "--no-isolation", "--outdir", "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/runs/traced/dist", "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/runs/traced/source"]
+CWD /workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation
+* Getting build dependencies for wheel...
+running egg_info
+creating todoman.egg-info
+writing todoman.egg-info/PKG-INFO
+writing dependency_links to todoman.egg-info/dependency_links.txt
+writing entry points to todoman.egg-info/entry_points.txt
+writing requirements to todoman.egg-info/requires.txt
+writing top-level names to todoman.egg-info/top_level.txt
+writing manifest file 'todoman.egg-info/SOURCES.txt'
+reading manifest file 'todoman.egg-info/SOURCES.txt'
+adding license file 'LICENCE'
+writing manifest file 'todoman.egg-info/SOURCES.txt'
+* Building wheel...
+running bdist_wheel
+running build
+running build_py
+creating build/lib/todoman
+copying todoman/__main__.py -> build/lib/todoman
+copying todoman/widgets.py -> build/lib/todoman
+copying todoman/version.py -> build/lib/todoman
+copying todoman/cli.py -> build/lib/todoman
+copying todoman/exceptions.py -> build/lib/todoman
+copying todoman/interactive.py -> build/lib/todoman
+copying todoman/model.py -> build/lib/todoman
+copying todoman/formatters.py -> build/lib/todoman
+copying todoman/configuration.py -> build/lib/todoman
+copying todoman/__init__.py -> build/lib/todoman
+running egg_info
+writing todoman.egg-info/PKG-INFO
+writing dependency_links to todoman.egg-info/dependency_links.txt
+writing entry points to todoman.egg-info/entry_points.txt
+writing requirements to todoman.egg-info/requires.txt
+writing top-level names to todoman.egg-info/top_level.txt
+reading manifest file 'todoman.egg-info/SOURCES.txt'
+adding license file 'LICENCE'
+writing manifest file 'todoman.egg-info/SOURCES.txt'
+installing to build/bdist.linux-x86_64/wheel
+running install
+running install_lib
+creating build/bdist.linux-x86_64/wheel
+creating build/bdist.linux-x86_64/wheel/todoman
+copying build/lib/todoman/__main__.py -> build/bdist.linux-x86_64/wheel/./todoman
+copying build/lib/todoman/widgets.py -> build/bdist.linux-x86_64/wheel/./todoman
+copying build/lib/todoman/version.py -> build/bdist.linux-x86_64/wheel/./todoman
+copying build/lib/todoman/cli.py -> build/bdist.linux-x86_64/wheel/./todoman
+copying build/lib/todoman/exceptions.py -> build/bdist.linux-x86_64/wheel/./todoman
+copying build/lib/todoman/interactive.py -> build/bdist.linux-x86_64/wheel/./todoman
+copying build/lib/todoman/model.py -> build/bdist.linux-x86_64/wheel/./todoman
+copying build/lib/todoman/formatters.py -> build/bdist.linux-x86_64/wheel/./todoman
+copying build/lib/todoman/configuration.py -> build/bdist.linux-x86_64/wheel/./todoman
+copying build/lib/todoman/__init__.py -> build/bdist.linux-x86_64/wheel/./todoman
+running install_egg_info
+Copying todoman.egg-info to build/bdist.linux-x86_64/wheel/./todoman-0.0+g78e35788606a-py3.12.egg-info
+running install_scripts
+creating build/bdist.linux-x86_64/wheel/todoman-0.0+g78e35788606a.dist-info/WHEEL
+creating '/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/runs/traced/dist/.tmp-ngznnmwt/todoman-0.0+g78e35788606a-py3-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
+adding 'todoman/__init__.py'
+adding 'todoman/__main__.py'
+adding 'todoman/cli.py'
+adding 'todoman/configuration.py'
+adding 'todoman/exceptions.py'
+adding 'todoman/formatters.py'
+adding 'todoman/interactive.py'
+adding 'todoman/model.py'
+adding 'todoman/version.py'
+adding 'todoman/widgets.py'
+adding 'todoman-0.0+g78e35788606a.dist-info/licenses/LICENCE'
+adding 'todoman-0.0+g78e35788606a.dist-info/METADATA'
+adding 'todoman-0.0+g78e35788606a.dist-info/WHEEL'
+adding 'todoman-0.0+g78e35788606a.dist-info/entry_points.txt'
+adding 'todoman-0.0+g78e35788606a.dist-info/top_level.txt'
+adding 'todoman-0.0+g78e35788606a.dist-info/RECORD'
+removing build/bdist.linux-x86_64/wheel
+Successfully built todoman-0.0+g78e35788606a-py3-none-any.whl
+
+EXIT_CODE 0
+ELAPSED_SECONDS 0.461

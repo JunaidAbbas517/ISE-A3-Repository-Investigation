@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.ics -text
+*.tar.gz -text
+*.whl -text
+*.png -text
+*.pdf -text
+*.docx -text
+*.sqlite3 -text

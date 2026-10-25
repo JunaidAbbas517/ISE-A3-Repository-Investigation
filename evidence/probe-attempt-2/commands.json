@@ -1,0 +1,116 @@
+[
+  {
+    "label": "installed-entry-point",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-venv/bin/python",
+      "-m",
+      "todoman",
+      "--version"
+    ],
+    "exit_code": 0,
+    "stdout": "todoman, version 0.0+g78e35788606a\n",
+    "stderr": ""
+  },
+  {
+    "label": "initial-list",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-venv/bin/python",
+      "-m",
+      "todoman",
+      "--config",
+      "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/evidence/probe-attempt-2/workspace/config.py",
+      "--porcelain",
+      "list"
+    ],
+    "exit_code": 0,
+    "stdout": "[\n    {\n        \"categories\": [],\n        \"completed\": false,\n        \"completed_at\": null,\n        \"description\": \"\",\n        \"due\": 1791649800,\n        \"id\": 1,\n        \"list\": \"Coursework\",\n        \"list_colour\": null,\n        \"location\": \"\",\n        \"percent\": 0,\n        \"priority\": 0,\n        \"recurring\": false,\n        \"start\": null,\n        \"summary\": \"ISE synthetic assignment\"\n    }\n]\n",
+    "stderr": ""
+  },
+  {
+    "label": "normal-edit",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-venv/bin/python",
+      "-m",
+      "todoman",
+      "--config",
+      "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/evidence/probe-attempt-2/workspace/config.py",
+      "--color",
+      "never",
+      "edit",
+      "--due",
+      "2026-10-17 16:30",
+      "1"
+    ],
+    "exit_code": 0,
+    "stdout": "[ ] 1  2026-10-17 16:30 ISE synthetic assignment @Coursework\n",
+    "stderr": ""
+  },
+  {
+    "label": "read-after-edit",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-venv/bin/python",
+      "-m",
+      "todoman",
+      "--config",
+      "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/evidence/probe-attempt-2/workspace/config.py",
+      "--porcelain",
+      "show",
+      "1"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n    \"categories\": [],\n    \"completed\": false,\n    \"completed_at\": null,\n    \"description\": \"\",\n    \"due\": 1792254600,\n    \"id\": 1,\n    \"list\": \"Coursework\",\n    \"list_colour\": null,\n    \"location\": \"\",\n    \"percent\": 0,\n    \"priority\": 0,\n    \"recurring\": false,\n    \"start\": null,\n    \"summary\": \"ISE synthetic assignment\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "label": "invalid-date",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-venv/bin/python",
+      "-m",
+      "todoman",
+      "--config",
+      "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/evidence/probe-attempt-2/workspace/config.py",
+      "--color",
+      "never",
+      "edit",
+      "--due",
+      "not-a-deadline-XYZ",
+      "1"
+    ],
+    "exit_code": 2,
+    "stdout": "",
+    "stderr": "Usage: python -m todoman edit [OPTIONS] ID\nTry 'python -m todoman edit --help' for help.\n\nError: Invalid value for '--due' / '-d': Time description not recognized: not-a-deadline-XYZ\n"
+  },
+  {
+    "label": "date-only-edit",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-venv/bin/python",
+      "-m",
+      "todoman",
+      "--config",
+      "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/evidence/probe-attempt-2/workspace/config.py",
+      "--color",
+      "never",
+      "edit",
+      "--due",
+      "2026-10-25",
+      "1"
+    ],
+    "exit_code": 0,
+    "stdout": "[ ] 1  2026-10-25 ISE synthetic assignment @Coursework\n",
+    "stderr": ""
+  },
+  {
+    "label": "missing-config",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-venv/bin/python",
+      "-m",
+      "todoman",
+      "--config",
+      "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/evidence/probe-attempt-2/workspace/does-not-exist.py",
+      "list"
+    ],
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Error: Configuration file /workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/evidence/probe-attempt-2/workspace/does-not-exist.py does not exist.\n\nFor details on the configuration format and a sample file, see\nhttps://todoman.rtfd.org/en/latest/configure.html\n"
+  }
+]

@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/scripts/probe_workflow.py", line 140, in <module>
+    main()
+  File "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/scripts/probe_workflow.py", line 71, in main
+    before = snapshot('01-before.ics')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/scripts/probe_workflow.py", line 63, in snapshot
+    component = next(Calendar.from_ical(task_file.read_bytes()).walk('VTODO'))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'list' object is not an iterator

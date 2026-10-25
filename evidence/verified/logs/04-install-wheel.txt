@@ -1,0 +1,8 @@
+COMMAND ["/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/runs/traced/venv/bin/python", "-m", "pip", "install", "--no-index", "--no-deps", "/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/runs/traced/dist/todoman-0.0+g78e35788606a-py3-none-any.whl"]
+CWD /workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation
+Processing ./runs/traced/dist/todoman-0.0+g78e35788606a-py3-none-any.whl
+Installing collected packages: todoman
+Successfully installed todoman-0.0+g78e35788606a
+
+EXIT_CODE 0
+ELAPSED_SECONDS 0.267

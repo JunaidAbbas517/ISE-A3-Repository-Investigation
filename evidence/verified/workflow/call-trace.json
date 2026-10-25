@@ -1,0 +1,198 @@
+[
+  {
+    "index": 1,
+    "module": "todoman.cli",
+    "function": "cli",
+    "source": "todoman/cli.py",
+    "first_line": 288
+  },
+  {
+    "index": 2,
+    "module": "todoman.configuration",
+    "function": "load_config",
+    "source": "todoman/configuration.py",
+    "first_line": 220
+  },
+  {
+    "index": 3,
+    "module": "todoman.model",
+    "function": "add_file",
+    "source": "todoman/model.py",
+    "first_line": 602
+  },
+  {
+    "index": 4,
+    "module": "todoman.model",
+    "function": "save_to_disk",
+    "source": "todoman/model.py",
+    "first_line": 453
+  },
+  {
+    "index": 5,
+    "module": "todoman.cli",
+    "function": "_validate_date_param",
+    "source": "todoman/cli.py",
+    "first_line": 99
+  },
+  {
+    "index": 6,
+    "module": "todoman.formatters",
+    "function": "parse_datetime",
+    "source": "todoman/formatters.py",
+    "first_line": 255
+  },
+  {
+    "index": 7,
+    "module": "todoman.formatters",
+    "function": "_parse_datetime_naive",
+    "source": "todoman/formatters.py",
+    "first_line": 262
+  },
+  {
+    "index": 8,
+    "module": "todoman.cli",
+    "function": "_validate_date_param",
+    "source": "todoman/cli.py",
+    "first_line": 99
+  },
+  {
+    "index": 9,
+    "module": "todoman.formatters",
+    "function": "parse_datetime",
+    "source": "todoman/formatters.py",
+    "first_line": 255
+  },
+  {
+    "index": 10,
+    "module": "todoman.cli",
+    "function": "edit",
+    "source": "todoman/cli.py",
+    "first_line": 471
+  },
+  {
+    "index": 11,
+    "module": "todoman.model",
+    "function": "todo",
+    "source": "todoman/model.py",
+    "first_line": 1136
+  },
+  {
+    "index": 12,
+    "module": "todoman.model",
+    "function": "todo",
+    "source": "todoman/model.py",
+    "first_line": 970
+  },
+  {
+    "index": 13,
+    "module": "todoman.model",
+    "function": "_todo_from_db",
+    "source": "todoman/model.py",
+    "first_line": 919
+  },
+  {
+    "index": 14,
+    "module": "todoman.model",
+    "function": "save",
+    "source": "todoman/model.py",
+    "first_line": 1164
+  },
+  {
+    "index": 15,
+    "module": "todoman.model",
+    "function": "write",
+    "source": "todoman/model.py",
+    "first_line": 385
+  },
+  {
+    "index": 16,
+    "module": "todoman.model",
+    "function": "_write_existing",
+    "source": "todoman/model.py",
+    "first_line": 393
+  },
+  {
+    "index": 17,
+    "module": "todoman.model",
+    "function": "serialize",
+    "source": "todoman/model.py",
+    "first_line": 345
+  },
+  {
+    "index": 18,
+    "module": "todoman.model",
+    "function": "normalize_datetime",
+    "source": "todoman/model.py",
+    "first_line": 324
+  },
+  {
+    "index": 19,
+    "module": "todoman.model",
+    "function": "normalize_datetime",
+    "source": "todoman/model.py",
+    "first_line": 324
+  },
+  {
+    "index": 20,
+    "module": "todoman.model",
+    "function": "normalize_datetime",
+    "source": "todoman/model.py",
+    "first_line": 324
+  },
+  {
+    "index": 21,
+    "module": "todoman.model",
+    "function": "normalize_datetime",
+    "source": "todoman/model.py",
+    "first_line": 324
+  },
+  {
+    "index": 22,
+    "module": "todoman.model",
+    "function": "atomic_write",
+    "source": "todoman/model.py",
+    "first_line": 272
+  },
+  {
+    "index": 23,
+    "module": "todoman.model",
+    "function": "atomic_write",
+    "source": "todoman/model.py",
+    "first_line": 272
+  },
+  {
+    "index": 24,
+    "module": "todoman.model",
+    "function": "expire_file",
+    "source": "todoman/model.py",
+    "first_line": 1012
+  },
+  {
+    "index": 25,
+    "module": "todoman.model",
+    "function": "add_file",
+    "source": "todoman/model.py",
+    "first_line": 602
+  },
+  {
+    "index": 26,
+    "module": "todoman.model",
+    "function": "add_vtodo",
+    "source": "todoman/model.py",
+    "first_line": 668
+  },
+  {
+    "index": 27,
+    "module": "todoman.model",
+    "function": "save_to_disk",
+    "source": "todoman/model.py",
+    "first_line": 453
+  },
+  {
+    "index": 28,
+    "module": "todoman.formatters",
+    "function": "detailed",
+    "source": "todoman/formatters.py",
+    "first_line": 213
+  }
+]

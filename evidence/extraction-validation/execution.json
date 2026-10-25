@@ -1,0 +1,116 @@
+[
+  {
+    "stage": "01-venv",
+    "argv": [
+      "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+      "-m",
+      "venv",
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/venv"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 1.808,
+    "log": "logs/01-venv.txt"
+  },
+  {
+    "stage": "02-install-lock",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/venv/bin/python",
+      "-m",
+      "pip",
+      "install",
+      "--no-index",
+      "--find-links",
+      "/workspace/scratch/7fb013f6d2db/a3-final-qa/ISE-A3-Repository-Investigation/environment/wheels",
+      "--require-hashes",
+      "-r",
+      "/workspace/scratch/7fb013f6d2db/a3-final-qa/ISE-A3-Repository-Investigation/environment/requirements.lock"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 2.928,
+    "log": "logs/02-install-lock.txt"
+  },
+  {
+    "stage": "03-build-wheel",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/venv/bin/python",
+      "-m",
+      "build",
+      "--wheel",
+      "--no-isolation",
+      "--outdir",
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/dist",
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/source"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 0.47,
+    "log": "logs/03-build-wheel.txt"
+  },
+  {
+    "stage": "04-install-wheel",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/venv/bin/python",
+      "-m",
+      "pip",
+      "install",
+      "--no-index",
+      "--no-deps",
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/dist/todoman-0.0+g78e35788606a-py3-none-any.whl"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 0.303,
+    "log": "logs/04-install-wheel.txt"
+  },
+  {
+    "stage": "05-upstream-tests",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/venv/bin/python",
+      "-m",
+      "pytest",
+      "-o",
+      "addopts=",
+      "-q",
+      "-ra",
+      "--hypothesis-seed=20261025",
+      "--junitxml=/workspace/scratch/7fb013f6d2db/a3-extracted-validation/upstream-tests.xml"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 4.073,
+    "log": "logs/05-upstream-tests.txt"
+  },
+  {
+    "stage": "06-start-version",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/venv/bin/python",
+      "-m",
+      "todoman",
+      "--version"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 0.154,
+    "log": "logs/06-start-version.txt"
+  },
+  {
+    "stage": "07-study-probes",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/venv/bin/python",
+      "/workspace/scratch/7fb013f6d2db/a3-final-qa/ISE-A3-Repository-Investigation/scripts/probe_workflow.py",
+      "--output",
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/workflow"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 1.494,
+    "log": "logs/07-study-probes.txt"
+  },
+  {
+    "stage": "08-dependency-check",
+    "argv": [
+      "/workspace/scratch/7fb013f6d2db/a3-extracted-validation/venv/bin/python",
+      "-m",
+      "pip",
+      "check"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 0.233,
+    "log": "logs/08-dependency-check.txt"
+  }
+]

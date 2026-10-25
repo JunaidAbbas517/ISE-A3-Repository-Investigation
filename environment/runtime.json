@@ -1,0 +1,21 @@
+{
+  "study_date": "2026-10-25",
+  "python": "3.12.14",
+  "implementation": "CPython",
+  "system": "Linux",
+  "machine": "x86_64",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "libc": [
+    "glibc",
+    "2.39"
+  ],
+  "sqlite": "3.53.1",
+  "timezone": "UTC",
+  "locale": "C.UTF-8",
+  "PYTHONHASHSEED": "0",
+  "hypothesis_seed": 20261025,
+  "DETERMINISTIC_TESTS": "true",
+  "snapshot_version": "0.0+g78e35788606a",
+  "data_version": "a3-synthetic-deadline-v1",
+  "reproduction_target": "CPython 3.12.14, Linux x86_64; WSL supported in principle, not independently executed"
+}

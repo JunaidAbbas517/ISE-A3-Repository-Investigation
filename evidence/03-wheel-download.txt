@@ -1,0 +1,122 @@
+Collecting build==1.6.1 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 1))
+  Using cached build-1.6.1-py3-none-any.whl.metadata (5.6 kB)
+Collecting click==8.5.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 2))
+  Using cached click-8.5.0-py3-none-any.whl.metadata (2.6 kB)
+Collecting click-log==0.4.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 3))
+  Using cached click_log-0.4.0-py2.py3-none-any.whl.metadata (1.2 kB)
+Collecting coverage==7.17.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 4))
+  Using cached coverage-7.17.0-cp312-cp312-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl.metadata (8.1 kB)
+Collecting freezegun==1.5.5 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 5))
+  Using cached freezegun-1.5.5-py3-none-any.whl.metadata (13 kB)
+Collecting humanize==4.16.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 6))
+  Using cached humanize-4.16.0-py3-none-any.whl.metadata (8.0 kB)
+Collecting hypothesis==6.170.9 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 7))
+  Using cached hypothesis-6.170.9-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (5.6 kB)
+Collecting icalendar==7.3.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 8))
+  Using cached icalendar-7.3.0-py3-none-any.whl.metadata (7.0 kB)
+Collecting iniconfig==2.3.1 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 9))
+  Using cached iniconfig-2.3.1-py3-none-any.whl.metadata (2.8 kB)
+Collecting packaging==26.3 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 10))
+  Using cached packaging-26.3-py3-none-any.whl.metadata (3.5 kB)
+Collecting parsedatetime==2.6 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 11))
+  Using cached parsedatetime-2.6-py3-none-any.whl.metadata (4.7 kB)
+Collecting pip==25.0.1 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 12))
+  Downloading pip-25.0.1-py3-none-any.whl.metadata (3.7 kB)
+Collecting pluggy==1.7.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 13))
+  Using cached pluggy-1.7.0-py3-none-any.whl.metadata (5.0 kB)
+Collecting Pygments==2.21.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 14))
+  Using cached pygments-2.21.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting pyproject_hooks==1.3.3 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 15))
+  Using cached pyproject_hooks-1.3.3-py3-none-any.whl.metadata (1.3 kB)
+Collecting pytest==9.1.1 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 16))
+  Using cached pytest-9.1.1-py3-none-any.whl.metadata (7.6 kB)
+Collecting pytest-cov==7.1.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 17))
+  Using cached pytest_cov-7.1.0-py3-none-any.whl.metadata (32 kB)
+Collecting python-dateutil==3.0.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 18))
+  Using cached python_dateutil-3.0.0-py2.py3-none-any.whl.metadata (8.2 kB)
+Collecting pytz==2026.5 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 19))
+  Using cached pytz-2026.5-py2.py3-none-any.whl.metadata (22 kB)
+Collecting pyxdg==0.28 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 20))
+  Using cached pyxdg-0.28-py2.py3-none-any.whl.metadata (567 bytes)
+Collecting setuptools==84.2.1 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 21))
+  Using cached setuptools-84.2.1-py3-none-any.whl.metadata (6.6 kB)
+Collecting setuptools-scm==10.3.4 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 22))
+  Using cached setuptools_scm-10.3.4-py3-none-any.whl.metadata (6.7 kB)
+Collecting six==1.17.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 23))
+  Using cached six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting sortedcontainers==2.4.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 24))
+  Using cached sortedcontainers-2.4.0-py2.py3-none-any.whl.metadata (10 kB)
+Collecting typing_extensions==4.16.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 25))
+  Using cached typing_extensions-4.16.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting tzdata==2026.5 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 26))
+  Using cached tzdata-2026.5-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting urwid==4.2.5 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 27))
+  Using cached urwid-4.2.5-py3-none-any.whl.metadata (14 kB)
+Collecting vcs-versioning==2.6.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 28))
+  Using cached vcs_versioning-2.6.0-py3-none-any.whl.metadata (1.7 kB)
+Collecting wcwidth==0.9.4 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 29))
+  Using cached wcwidth-0.9.4-cp310-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (23 kB)
+Collecting wheel==0.48.0 (from -r ISE-A3-Repository-Investigation/environment/requirements.lock (line 30))
+  Using cached wheel-0.48.0-py3-none-any.whl.metadata (2.3 kB)
+Using cached build-1.6.1-py3-none-any.whl (31 kB)
+Using cached click-8.5.0-py3-none-any.whl (125 kB)
+Using cached click_log-0.4.0-py2.py3-none-any.whl (4.3 kB)
+Using cached coverage-7.17.0-cp312-cp312-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl (261 kB)
+Using cached freezegun-1.5.5-py3-none-any.whl (19 kB)
+Using cached humanize-4.16.0-py3-none-any.whl (137 kB)
+Using cached hypothesis-6.170.9-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.2 MB)
+Using cached icalendar-7.3.0-py3-none-any.whl (542 kB)
+Using cached iniconfig-2.3.1-py3-none-any.whl (7.6 kB)
+Using cached packaging-26.3-py3-none-any.whl (129 kB)
+Using cached parsedatetime-2.6-py3-none-any.whl (42 kB)
+Downloading pip-25.0.1-py3-none-any.whl (1.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 MB 51.1 MB/s eta 0:00:00
+Using cached pluggy-1.7.0-py3-none-any.whl (27 kB)
+Using cached pygments-2.21.0-py3-none-any.whl (1.3 MB)
+Using cached pyproject_hooks-1.3.3-py3-none-any.whl (10 kB)
+Using cached pytest-9.1.1-py3-none-any.whl (386 kB)
+Using cached pytest_cov-7.1.0-py3-none-any.whl (22 kB)
+Using cached python_dateutil-3.0.0-py2.py3-none-any.whl (94 kB)
+Using cached pytz-2026.5-py2.py3-none-any.whl (506 kB)
+Using cached pyxdg-0.28-py2.py3-none-any.whl (49 kB)
+Using cached setuptools-84.2.1-py3-none-any.whl (876 kB)
+Using cached setuptools_scm-10.3.4-py3-none-any.whl (33 kB)
+Using cached six-1.17.0-py2.py3-none-any.whl (11 kB)
+Using cached sortedcontainers-2.4.0-py2.py3-none-any.whl (29 kB)
+Using cached typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Using cached tzdata-2026.5-py2.py3-none-any.whl (347 kB)
+Using cached urwid-4.2.5-py3-none-any.whl (388 kB)
+Using cached vcs_versioning-2.6.0-py3-none-any.whl (123 kB)
+Using cached wcwidth-0.9.4-cp310-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (785 kB)
+Using cached wheel-0.48.0-py3-none-any.whl (33 kB)
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/build-1.6.1-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/click-8.5.0-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/click_log-0.4.0-py2.py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/coverage-7.17.0-cp312-cp312-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/freezegun-1.5.5-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/humanize-4.16.0-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/hypothesis-6.170.9-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/icalendar-7.3.0-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/iniconfig-2.3.1-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/packaging-26.3-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/parsedatetime-2.6-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/pip-25.0.1-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/pluggy-1.7.0-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/pygments-2.21.0-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/pyproject_hooks-1.3.3-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/pytest-9.1.1-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/pytest_cov-7.1.0-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/python_dateutil-3.0.0-py2.py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/pytz-2026.5-py2.py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/pyxdg-0.28-py2.py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/setuptools-84.2.1-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/setuptools_scm-10.3.4-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/six-1.17.0-py2.py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/sortedcontainers-2.4.0-py2.py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/typing_extensions-4.16.0-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/tzdata-2026.5-py2.py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/urwid-4.2.5-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/vcs_versioning-2.6.0-py3-none-any.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/wcwidth-0.9.4-cp310-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+Saved ./ISE-A3-Repository-Investigation/environment/wheels/wheel-0.48.0-py3-none-any.whl
+Successfully downloaded build click click-log coverage freezegun humanize hypothesis icalendar iniconfig packaging parsedatetime pip pluggy Pygments pyproject_hooks pytest pytest-cov python-dateutil pytz pyxdg setuptools setuptools-scm six sortedcontainers typing_extensions tzdata urwid vcs-versioning wcwidth wheel

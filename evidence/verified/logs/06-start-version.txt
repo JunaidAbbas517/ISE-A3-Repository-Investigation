@@ -1,0 +1,6 @@
+COMMAND ["/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/runs/traced/venv/bin/python", "-m", "todoman", "--version"]
+CWD /workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation
+todoman, version 0.0+g78e35788606a
+
+EXIT_CODE 0
+ELAPSED_SECONDS 0.191

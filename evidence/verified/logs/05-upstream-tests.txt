@@ -1,0 +1,82 @@
+COMMAND ["/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/runs/traced/venv/bin/python", "-m", "pytest", "-o", "addopts=", "-q", "-ra", "--hypothesis-seed=20261025", "--junitxml=/workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/runs/traced/upstream-tests.xml"]
+CWD /workspace/scratch/7fb013f6d2db/ISE-A3-Repository-Investigation/runs/traced/source
+.....................x.......................................s.......... [ 36%]
+................xx....................................................ss [ 73%]
+..ss.......................................s.........                    [100%]
+=============================== warnings summary ===============================
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:1007: DeprecationWarning: urwid.display_common is moved to urwid.display.common since urwid 2.4.0. API will be removed in version 6.0.
+    if ismodule(module) and hasattr(module, '__file__'):
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:1008: DeprecationWarning: urwid.display_common is moved to urwid.display.common since urwid 2.4.0. API will be removed in version 6.0.
+    f = module.__file__
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:914: DeprecationWarning: urwid.display_common is moved to urwid.display.common since urwid 2.4.0. API will be removed in version 6.0.
+    if getattr(object, '__file__', None):
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:915: DeprecationWarning: urwid.display_common is moved to urwid.display.common since urwid 2.4.0. API will be removed in version 6.0.
+    return object.__file__
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:1007: DeprecationWarning: urwid.raw_display is moved to urwid.display.raw since urwid 2.4.0. API will be removed in version 6.0.
+    if ismodule(module) and hasattr(module, '__file__'):
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:1008: DeprecationWarning: urwid.raw_display is moved to urwid.display.raw since urwid 2.4.0. API will be removed in version 6.0.
+    f = module.__file__
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:914: DeprecationWarning: urwid.raw_display is moved to urwid.display.raw since urwid 2.4.0. API will be removed in version 6.0.
+    if getattr(object, '__file__', None):
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:915: DeprecationWarning: urwid.raw_display is moved to urwid.display.raw since urwid 2.4.0. API will be removed in version 6.0.
+    return object.__file__
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:1007: DeprecationWarning: urwid.curses_display is moved to urwid.display.curses since urwid 2.4.0. API will be removed in version 6.0.
+    if ismodule(module) and hasattr(module, '__file__'):
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:1008: DeprecationWarning: urwid.curses_display is moved to urwid.display.curses since urwid 2.4.0. API will be removed in version 6.0.
+    f = module.__file__
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:914: DeprecationWarning: urwid.curses_display is moved to urwid.display.curses since urwid 2.4.0. API will be removed in version 6.0.
+    if getattr(object, '__file__', None):
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:915: DeprecationWarning: urwid.curses_display is moved to urwid.display.curses since urwid 2.4.0. API will be removed in version 6.0.
+    return object.__file__
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:1007: DeprecationWarning: urwid.escape is moved to urwid.display.escape since urwid 2.4.0. API will be removed in version 6.0.
+    if ismodule(module) and hasattr(module, '__file__'):
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:1008: DeprecationWarning: urwid.escape is moved to urwid.display.escape since urwid 2.4.0. API will be removed in version 6.0.
+    f = module.__file__
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:914: DeprecationWarning: urwid.escape is moved to urwid.display.escape since urwid 2.4.0. API will be removed in version 6.0.
+    if getattr(object, '__file__', None):
+
+tests/test_cli.py::test_two_events
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/inspect.py:915: DeprecationWarning: urwid.escape is moved to urwid.display.escape since urwid 2.4.0. API will be removed in version 6.0.
+    return object.__file__
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ============================
+SKIPPED [1] tests/test_cli.py:881: Optional dependency "click_repl" is not installed
+SKIPPED [4] tests/test_model.py:287: These combinations are invalid, as per the spec.
+SKIPPED [1] tests/test_ui.py:179: See: https://github.com/pimutils/todoman/issues/537
+XFAIL tests/test_cli.py::test_two_events - issue#9
+XFAIL tests/test_config.py::test_extra_entry - Not implemented
+XFAIL tests/test_config.py::test_extra_section - Not implemented
+188 passed, 6 skipped, 3 xfailed, 16 warnings in 2.94s
+
+EXIT_CODE 0
+ELAPSED_SECONDS 3.712

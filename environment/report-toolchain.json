@@ -1,0 +1,8 @@
+{
+  "python-docx": "1.2.0",
+  "matplotlib": "3.10.8",
+  "numpy": "2.3.5",
+  "Pillow": "12.3.0",
+  "lxml": "6.1.1",
+  "note": "Authoring tools only; not needed by the offline investigation reproducer. PDF is rendered from the editable DOCX using LibreOffice."
+}

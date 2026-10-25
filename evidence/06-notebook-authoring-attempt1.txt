@@ -1,0 +1,6 @@
+Retained notebook authoring attempt
+Command: python build_a3_notebook.py
+Working directory: /workspace/scratch/7fb013f6d2db
+Observed failure: StopIteration in notebook cell 1 while locating the package root.
+Cause: authoring runner was invoked outside the documented package-root/notebook working directories.
+Correction: invoke the same runner with the package root as working directory. No upstream code or notebook test oracle changed.

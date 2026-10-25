@@ -1,0 +1,68 @@
+{
+  "dataset_id": "a3-synthetic-deadline-v1",
+  "clock_policy": "Absolute due values are fixed. Upstream LAST-MODIFIED records actual execution time and is not compared byte-for-byte across runs.",
+  "checks_passed": 6,
+  "results": [
+    {
+      "id": "P1",
+      "observation": "Normal CLI edit persists due value and increments SEQUENCE; a new CLI process and SQLite cache agree.",
+      "before": {
+        "due": "2026-10-10T16:30:00+00:00",
+        "type": "datetime",
+        "sequence": 1,
+        "sha256": "32f00618a0da5e699aa778704cb4e97bd815130a18bfca64cc06df5cacdb85aa"
+      },
+      "after": {
+        "due": "2026-10-17T16:30:00+00:00",
+        "type": "datetime",
+        "sequence": 2,
+        "sha256": "6662e049692e1964e1fcf90bc5d769689b25ff7d744b3c6808cc7f939353d848"
+      },
+      "passed": true
+    },
+    {
+      "id": "P2",
+      "observation": "Malformed date returns exit 2 and leaves the calendar file byte-identical.",
+      "passed": true
+    },
+    {
+      "id": "P3",
+      "observation": "A stale Todo object overwrites a newer due date without a version-conflict error.",
+      "base_sequence": 2,
+      "first_saved_sequence": 3,
+      "second_saved_sequence": 3,
+      "final": {
+        "due": "2026-10-24T16:30:00+00:00",
+        "type": "datetime",
+        "sequence": 3,
+        "sha256": "009d4615a7321a65427822d886e2196665d35bec940eef2782f652b2ced439a3"
+      },
+      "claim_falsified": "SEQUENCE alone prevents stale-writer lost updates.",
+      "passed": true
+    },
+    {
+      "id": "P4",
+      "observation": "A date-only due value is accepted and persisted as an all-day date, without a UTC instant.",
+      "final": {
+        "due": "2026-10-25",
+        "type": "date",
+        "sequence": 4,
+        "sha256": "1cec9a9890c116164b17c82d0b9ad3ecb394f9d5c058df2073f68959ffa16e1c"
+      },
+      "claim_falsified": "Every accepted Todoman deadline meets A2 explicit-instant semantics.",
+      "passed": true
+    },
+    {
+      "id": "P5",
+      "observation": "Configuration is executable Python; a harmless synthetic marker is written during load_config.",
+      "claim_falsified": "A Todoman configuration file is inert data safe to accept from an untrusted source.",
+      "passed": true
+    },
+    {
+      "id": "P6",
+      "observation": "An explicitly missing configuration produces exit 1 and actionable error text.",
+      "passed": true
+    }
+  ],
+  "scope": "Local CLI and model characterization, not authentication, LMS integration, performance, or network security assurance."
+}
