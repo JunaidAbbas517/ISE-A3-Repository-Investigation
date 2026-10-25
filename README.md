@@ -49,6 +49,4 @@ The recorded clean run used CPython 3.12.14, Linux x86_64, UTC, fixed synthetic 
 
 All data are synthetic. The CLI and local storage path were tested; institutional authentication, live CalDAV/LMS synchronization, interactive terminal usability, native Windows and production deployment were not tested. The retained first probe failure was an investigator-harness API assumption, not an upstream defect.
 
-## Upload and submit
 
-Upload the **contents of this extracted folder**, not only the ZIP, to your study repository. Create your own commit/tag and submit its stable URL plus the summary in `PLATFORM-SUBMISSION.md`. This package does not claim that your A3 evidence has already been pushed to GitHub.
